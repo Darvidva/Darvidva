@@ -52,9 +52,3 @@
 - 🔗 **LinkedIn:** [David Mbre](https://www.linkedin.com/in/david-mbre-b0a430311)
 - 🐦 **X (Twitter):** [@darvidva_](https://twitter.com/darvidva_)
 - 💬 **WhatsApp:** [+2349077975344](https://wa.me/2349077975344)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darvidva&label=Profile%20views&color=0e75b6&style=flat" alt="darvidva" />
-</p>
